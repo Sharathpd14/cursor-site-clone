@@ -27,4 +27,4 @@
 - Accent color: `#f54e00`
 
 
-![Preview](result\Screenshot (167).png)
+<img src="result\Screenshot (167).png" width="800" alt="Preview">
