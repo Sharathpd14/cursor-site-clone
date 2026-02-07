@@ -26,5 +26,16 @@
 - Muted text: `#9a9a9a`
 - Accent color: `#f54e00`
 
+## Screenshots 
 
 <img src="result\Screenshot (167).png" width="800" alt="Preview">
+<img src="result\Screenshot (168).png" width="800" alt="Preview">
+<img src="result\Screenshot (169).png" width="800" alt="Preview">
+<img src="result\Screenshot (170).png" width="800" alt="Preview">
+<img src="result\Screenshot (171).png" width="800" alt="Preview">
+<img src="result\Screenshot (172).png" width="800" alt="Preview">
+<img src="result\Screenshot (173).png" width="800" alt="Preview">
+<img src="result\Screenshot (175).png" width="800" alt="Preview">
+<img src="result\Screenshot (176).png" width="800" alt="Preview">
+<img src="result\Screenshot (177).png" width="800" alt="Preview">
+<img src="result\Screenshot (178).png" width="800" alt="Preview">
