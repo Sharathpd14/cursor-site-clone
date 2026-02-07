@@ -60,6 +60,9 @@ body {
     justify-content: center;
 
 }
+.menus li:hover{
+    color: rgb(172, 170, 170);
+}
 
 .menu-part {
     margin-left: 68px;
